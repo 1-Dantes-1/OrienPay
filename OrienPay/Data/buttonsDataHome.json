@@ -1,0 +1,22 @@
+[
+    {
+        "text":"Мобильная связь",
+        "image":"phone.circle.fill",
+        "color":"RedLogo"
+    },
+    {
+        "text":"Свет, вода и отопление",
+        "image":"lightbulb.circle.fill",
+        "color":"BluishLogo"
+    },
+    {
+        "text":"Услуги и интернет",
+        "image":"wifi.circle.fill",
+        "color":"GreenLogo"
+    },
+    {
+        "text":"Кошельки",
+        "image":"dollarsign.circle.fill",
+        "color":"GrayLogo"
+    }
+]

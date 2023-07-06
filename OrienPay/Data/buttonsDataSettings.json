@@ -1,0 +1,50 @@
+[
+    {
+        "text":"О нас",
+        "destination":{
+            "desbuttons":[],
+            "destoggles":[],
+            "destext":"Мы команда"
+        }
+    },
+    {
+        "text":"Аккаунт",
+        "destination":{
+            "desbuttons":[
+                {
+                    "text":"Изменить профиль",
+                    "header":"Edit your profile"
+                },
+                {
+                    "text":"Выйти",
+                    "header":"Выйти с профиля"
+                }
+            ],
+            "destoggles":[
+                {
+                    "text":"Private",
+                    "toggle": false,
+                    "header":"Make your account private"
+                }
+            ],
+            "destext":""
+        }
+    },
+    {
+        "text":"Not",
+        "destination":{
+            "desbuttons":[],
+            "destoggles":[],
+            "destext":""
+        }
+    },
+    {
+        "text":"Something Else",
+        "destination":{
+            "desbuttons":[],
+            "destoggles":[],
+            "destext":""
+        }
+    }
+]
+

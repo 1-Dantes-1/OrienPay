@@ -1,0 +1,24 @@
+[
+    {
+        "id" : 1,
+        "name" : "Buzurgmehr",
+        "surname" : "Rahimzoda",
+        "phoneNumbers" : "+992556080005",
+        "age": "18",
+        "authorized": false
+        "adress" : {
+            "street" : "Mayakovski",
+            "apartament" : "10/A",
+            "homeNumber": "89"
+        },
+        "cards": [
+            {
+                "cardNumber": "1921680189033532",
+                "cardPeriod": "24/01",
+                "cardCVV" : "377",
+                "cardHolder" : "Rahimzoda Buzurgmehr",
+                "cardType" : "Visa"
+            }
+        ]
+    }
+]
